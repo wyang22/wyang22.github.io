@@ -28,7 +28,7 @@ Selected Publications
 
 **2017 and before**
 
-+ Real time Object Detection using deep learning on Intel GO Platform for ADAS. Wenlong Yang\#. **Intel PES IT Technical Conference**, (<font color="blue">**Oral, Winner of EmotiW-AFEW 2015 out of 75 Teams**</font>).
++ Real time Object Detection using deep learning on Intel GO Platform for ADAS. Wenlong Yang\#. **Intel PES IT Technical Conference**.
 + 1st Deep Learning based ADAS PoC on Intel GO. Wenlong Yang\#. **Intel IT China Tech Day 2017**.
 + Use Open Source Machine Translation plus Post-editing at Enterprise. Wenlong Yang\#. **LISA (The Localization Industry Standards Association) China Focus 2010**.
 
