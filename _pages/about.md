@@ -80,9 +80,6 @@ China Patents
 Current and Previous Interns
 =====
 
-I am really fortunate to be working with these amazingly talented students
-
 + Dongming Wei, PHD (Shanghai Jiaotong University) 
-+ [Shunjie Guo](https://shunj-g.github.io/page/) (Shanghai Maritime University)
 
 
