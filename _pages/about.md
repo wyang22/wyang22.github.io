@@ -31,6 +31,7 @@ Selected Publications
 + Real time Object Detection using deep learning on Intel GO Platform for ADAS. Wenlong Yang\#. **Intel PES IT Technical Conference**.
 + 1st Deep Learning based ADAS PoC on Intel GO. Wenlong Yang\#. **Intel IT China Tech Day 2017**.
 + Use Open Source Machine Translation plus Post-editing at Enterprise. Wenlong Yang\#. **LISA (The Localization Industry Standards Association) China Focus 2010**.
++ A Miniature Robot System with Fuzzy Wavelet Basis Neural Network Controller. Lianzhi Yu\#, Guozheng Yan, Chunyang Wang, Wenlong Yang, Peng Zan, etc. **ICIC 2008: Advanced Intelligent Computing Theories and Applications. With Aspects of Artificial Intelligence**, 2008, pp 1-8
 
 PCT Patents
 =====
