@@ -14,9 +14,9 @@ Short Bio
 Wenlong Yang got his Master degree from USST (University of Shanghai for Science and Technology) in March. 2009. He is currently a Senior Data Science Manager at Varian Medical Systems where he leads the research efforts on developing AI related smart radiotherapy and workflow. He has over 37+ patents applications got granted, which are widely used in smart phone, ADAS/AD, connected cars and radiotherapy domains. He has published over 10 research papers in MICCAI, Intel internal conferences, and etc. He has been recognized with numerous Awards at Intel, such as 2 times of Intel Division Awards, Intel Flex Innovation Award, and many Patent Filing Awards. He demonstrated outstanding skills in landing projects and drive innovation in smart devices, AD/ADAS, and radiotherapy. 
 
 **Working Experience**:
-2019.6 - Now, Varian Medical Systems, Senior Manager of Data Science Team
-2018.5 - 2019.6, Ecarx, ADAS Algorithm Director
-2008.1 - 2018.5, Intel, Senior Deep Learning Engineer
+2019.6 - Now, Varian Medical Systems, Senior Manager of Data Science Team.
+2018.5 - 2019.6, Ecarx, ADAS Algorithm Director.
+2008.1 - 2018.5, Intel, Senior Deep Learning Engineer.
 
 <font color="red">**Note**：We now have some internship positions. If you are interested in my research, please drop me an email. </font> 
 ---
